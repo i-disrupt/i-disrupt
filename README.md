@@ -5,7 +5,7 @@
 ---
 ### `About Me`:
 
-I'm a highly enthusiastic full-stack developer who is passionate about my work, creating technology to elevate people, and building communities. I have a wise range of experience with various technologies including `ReactJS`, `JavaScript`, `APIs`, `Markup`, and `NextJS`. I am constantly learning and expanding my skill-set to stay up to date with the latest technologies. I love to work on new and challenging projects, and am dedicated to delivering high-quality solutions for people across the globe. -- My interest in the `NextJS` ecosystem led me to launch <!-- Link My Portfolio --> [my personal website](https://nodisrupt.net/), a place for you to view my socials, commission, and learn more about me!
+I'm a highly enthusiastic full-stack developer who is passionate about my work, creating technology to elevate people, and building communities. I have a wise range of experience with various technologies including `ReactJS`, `JavaScript`, `APIs`, `Markup`, and `NextJS`. I am constantly learning and expanding my skill-set to stay up to date with the latest technologies. I love to work on new and challenging projects, and am dedicated to delivering high-quality solutions for people across the globe. -- My interest in the `NextJS` ecosystem led me to launch <!-- Link My Portfolio --> [my personal website](https://disrupts.tk/), a place for you to view my socials, commission, and learn more about me!
 
 ---
 ### `Recently worked with`:
